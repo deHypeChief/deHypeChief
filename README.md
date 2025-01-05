@@ -8,11 +8,9 @@ Hi there! I'm **Hype** — a passionate **UI/UX Designer** and **Fullstack Devel
 
 - 🎨 **Designer**: Crafting seamless user experiences with modern design principles.  
 - 💻 **Developer**: Writing clean, efficient code in **JavaScript**, **TypeScript**, **Python**, and more.  
-- 🏀 **Basketball Enthusiast**: Big fan of the **Golden State Warriors**! 🏆  
-  ![Golden State Warriors Animation](https://media.giphy.com/media/3o6Zt5sh7fA6zvA0sM/giphy.gif)  
+- 🏀 **Basketball Enthusiast**: Big fan of the **Golden State Warriors**!  
 - 🍲 **Hobbyist Chef**: I love experimenting with recipes and flavors.  
 - 💡 **Dreams**: I aspire to own a **tech agency**, a **restaurant**, and create **services for schools and brands**.  
-  ![Cooking Animation](https://media.giphy.com/media/xT5LMPgQbsCqjXxAOg/giphy.gif)
 
 ---
 
@@ -41,7 +39,6 @@ Hi there! I'm **Hype** — a passionate **UI/UX Designer** and **Fullstack Devel
 
 - 🏆 **Favorite NBA Team**: **Golden State Warriors** — I live for the fast-paced game and innovation on the court!  
 - 🍲 **Signature Dish**: Experimental fusion recipes — my kitchen is my playground!  
-  ![Cooking Animation](https://media.giphy.com/media/fe9P0C6sHH5ck/giphy.gif)
 - 🎬 **Favorite Anime**: Too many to count, but **One Piece** is my all-time favorite for its depth and adventure!  
 
 ---
@@ -51,4 +48,8 @@ Hi there! I'm **Hype** — a passionate **UI/UX Designer** and **Fullstack Devel
 - 💼 **Portfolio**: [Coming Soon!](#)
 - 💌 **Email**: [dev.hype7@gmail.com](mailto:dev.hype7@gmail.com)
 - 🐦 **Twitter**: [@dehypechief](https://x.com/deHypeChief)
-- 🔗 **LinkedIn**: [linkedin.com/in/david-chinedu-okoye/](https://www.linkedin.com/in/david-
+- 🔗 **LinkedIn**: [linkedin.com/in/david-chinedu-okoye/](https://www.linkedin.com/in/david-chinedu-okoye/)
+
+---
+
+Thanks for stopping by! 😊 Let's connect and create something incredible. 🚀
