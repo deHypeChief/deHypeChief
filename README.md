@@ -43,9 +43,9 @@ Hi there! I'm Hype — a passionate **UI/UX Designer** and **Fullstack Developer
 ## 📫 Let's Connect!
 
 - 💼 **Portfolio**: [Coming Soon!](#)
-- 💌 **Email**: hype@example.com
-- 🐦 **Twitter**: [@HypeCode](https://twitter.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/hype](https://linkedin.com)
+- 💌 **Email**: dev.hype7@gmail.com
+- 🐦 **Twitter**: [@dehypechief](https://x.com/deHypeChief)
+- 🔗 **LinkedIn**: [linkedin.com/in/hype](https://www.linkedin.com/in/david-chinedu-okoye/)
 
 ---
 
